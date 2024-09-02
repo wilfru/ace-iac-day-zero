@@ -1,5 +1,5 @@
 variable "username" {
-  default = "admin"
+  default = "fru.williams"
 }
 
 variable "password" {
@@ -88,7 +88,7 @@ variable "azure_test_instance_size" {
 }
 
 variable "ace_ec2_key_name" {
-  default = "ACE"
+  default = "ohio-kp"
 }
 
 variable "ha_enabled" {
